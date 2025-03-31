@@ -1,5 +1,5 @@
 # 💫 About Me:
-## I am a sophmore at University at Buffalo currently pursing a BS in Computer Science. I have<br>experience in working with React.js, MongoDB, PostgreSQL, Node.js, Express.js, Next.js, Python, Java .<br>Currently I am working with DART Collective(under SUNY RF) as a ##research intern, helping in <br>developing the UI and essential features
+## I am a sophmore at University At Buffalo, currently pursuing my BS in Computer Science 🤘
 
 
 ## 🌐 Socials:

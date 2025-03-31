@@ -1,6 +1,6 @@
 # 💫 About Me:
 ### I am a sophmore at University At Buffalo, currently pursuing my BS in Computer Science 🤘 <br />
-### Experienced in MERN Stack & Next.js, building scalable and efficient web apps. Currently diving deeper into UI/UX design to create seamless and visually captivating user experiences! 🎨🚀
+### Experienced in **MERN Stack** & **Next.js**, building scalable and efficient web apps. Currently diving deeper into **UI/UX** design to create seamless and visually captivating user experiences! 🎨🚀
 
 ### <ins> 🚀 Research Intern @ DART Collective (SUNY RF) </ins> <br/>
 #### Currently contributing to the development of an innovative web platform—crafting sleek UI designs and building out key features to enhance user experience. Merging research with code to push boundaries! 🧑‍🔬💻

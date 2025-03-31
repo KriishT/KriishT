@@ -1,5 +1,5 @@
 ## 💫 About Me:
- I am a sophmore at University At Buffalo, currently pursuing my BS in Computer Science 🤘
+ I am a sophmore at University At Buffalo, currently pursuing my BS in Computer Science 🤘 <br />
  I am currenyly working with DART Collective (under SUNY RF) as a **research intern**, helping in the development of the UI and other features of the website 🧑‍🔬
 
 

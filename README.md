@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👨‍💻 About Me:
 ### I am a sophmore at University At Buffalo, currently pursuing my BS in Computer Science 🤘 <br />
 ### Experienced in **MERN Stack** & **Next.js**, building scalable and efficient web apps. Currently diving deeper into **UI/UX** design to create seamless and visually captivating user experiences! 🎨🚀
 
